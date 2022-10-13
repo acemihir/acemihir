@@ -1,9 +1,15 @@
-<h1>Full-Stack Developer</h1>
+<h1>Top-notch Full-Stack Web Developer</h1>
  
 <h2>👋 About me</h2>
 
-- 🔭 I’m currently working on [ClioSec](https://github.com/OnlyF0uR/ClioSec)
-- 🌱 I’m currently studying **Cyber Security** and self-learning **(Neuro)Psychology**
+- 💻 High skilled Senior Software Developer after graudate University.
+- 🏡 Currently I am a Full Stack Web Developer with a specialist in Frontend and Backend
+  Frontend: React, Angular, Vue.js, Svelte.js, Gatsby.js, Three.js ...
+  Backend:  Node.js, .Net framework, Ruby on Rails, Laravel ...
+- 👨‍💻 Enjoying `Browser-based Game`projects.
+- ⏰ Working on EST timezone.
+- 📙 Responsive Communication.
+- 👊 Long-term relationship based on `Win-Win` methodology
 
 <h2>📜 Focused on</h2>
 
