@@ -140,6 +140,6 @@
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=guilyx&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilyx&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
 </p>
 
-![](https://readme-typing-svg.herokuapp.com/?lines=Blockchain%20Developer;Backend%20Engineer;Frontend%20Expert;React%20Master;8%2B%20years%20of%20coding%20experience;Always%20learning%20new%20techs&font=Pacifico&center=true&width=650&height=120&color=37b39a&vCenter=true&size=45%22)
+![](https://readme-typing-svg.herokuapp.com/?lines=Frontend%20Expert;Backend%20Engineer;Browser-Based%20Game%20%7C%20Metaverse%20Specialist;React%20Master;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20techs&font=Pacifico&center=true&width=650&height=120&color=37b39a&vCenter=true&size=45%22)
 
 ![](./code.gif)
