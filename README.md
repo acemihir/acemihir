@@ -1,11 +1,12 @@
-<h1>Top-notch Full-Stack Web Developer</h1>
+<h1>Building workd-first Web & Blockchain platforms</h1>
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=bcExpt1123&row=1&column=7&theme=gruvbox&margin-w=15&margin-h=15"/>
 </p>
 <h2>👋 About me</h2>
 
 - 💻 High skilled Top-notch Full-stack Engineer with tons of hands on experience
-- 🏡 Currently I am a Full Stack Web Developer with a specialist in Frontend and Backend
+- 🏡 Currently I am a Full Stack Web & Blockchain Developer with a specialist in Frontend and Backend, hotest blockchain technologies
+  * Blockchain:  Solidity, Rust, Anchor, NFT minting & marketplace, ICO, IDO, pinksale, dex, defi platforms ...
   * Frontend: React, Angular, Vue.js, Svelte.js, Gatsby.js, Three.js ...
   * Backend:  Node.js, .Net framework, Ruby on Rails, Laravel ...
 - 👨‍💻 Enjoying `Browser-based Game`projects.
